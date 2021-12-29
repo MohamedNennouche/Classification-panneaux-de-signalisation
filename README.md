@@ -1,4 +1,4 @@
-# Classification panneaux-de signalisation
+# Classification panneaux de signalisation
 ## Description 
 Ce projet rentre dans le cadre du module de traitement d'images, son but est de parvenir à classifier un certain nombre de plaques de signalisation routières suivant 3 classes distinctes, en utilisant dans un premier temps l'algorithme K-plus proches voisins, observant l'impact de la modification des paramètres et ensuite en utilisant un réseau de neurones multicouches. 
 ## Disposition du projet
